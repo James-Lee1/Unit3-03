@@ -1,7 +1,7 @@
 /****************************************************************************
  *
  * Created by: James Lee
- * Created on: Mar 2019
+ * Created on: Apr 2019
  * Created for: ICS4U
  * This program generates a list of 250 value and performs binary search
  *
